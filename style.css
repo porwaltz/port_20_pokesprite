@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+}
+img{
+    background-color: white;
+    image-rendering: pixelated;
+}
+.nav-buttons button:hover {
+    background-color: #0056b3;
+    color: antiquewhite;
+}
